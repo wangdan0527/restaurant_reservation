@@ -1,6 +1,6 @@
 # Restaurant Reservation System
 
-A boilerplate to get started building a REST API with Koa, MongoDB and Docker
+A simple backend to manage restaurant reservation.
 
 ## To run this make sure you have
 
